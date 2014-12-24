@@ -1,0 +1,1 @@
+gcc -lpcap otter3.c -o ../bin/otter3 -L /usr/lib64/ -lsqlite3
